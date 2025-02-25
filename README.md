@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3125whip2zho7pqenxanrelixggy)
+
 <!--
 **gabrielmgvdev/gabrielmgvdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
